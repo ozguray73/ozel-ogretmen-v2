@@ -1,0 +1,16 @@
+{
+  "konu": "Tam Sayılarla İşlemler",
+  "seviye": "Kolay",
+  "sorular": [
+    {
+      "soru": "(-3) + (+5) işleminin sonucu kaçtır?",
+      "secenekler": ["-8", "-2", "+2", "+8", "0"],
+      "cevap": "+2"
+    },
+    {
+      "soru": "(-7) - (-4) işleminin sonucu nedir?",
+      "secenekler": ["-11", "-3", "+3", "+11", "0"],
+      "cevap": "-3"
+    }
+  ]
+}
